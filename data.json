@@ -3,31 +3,31 @@
         {
             "url": "https://cdn.pixabay.com/download/audio/2021/07/22/audio_9584aae297.mp3?filename=freedom-inspired-cinematic-background-music-for-video-5606.mp3",
             "title": "Freedom",
-            "artwork": "http://example.com/cover.png",
+            "artwork": "https://www.w3schools.com/w3css/img_lights.jpg",
             "duration": 402
         },
         {
             "url": "https://cdn.pixabay.com/download/audio/2020/10/11/audio_746c5a0fb3.mp3?filename=awakening-instrumental-1165.mp3",
             "title": "Awakening",
-            "artwork": "http://example.com/cover.png",
+            "artwork": "https://www.w3schools.com/w3css/img_lights.jpg",
             "duration": 302
         },
         {
             "url": "https://cdn.pixabay.com/download/audio/2020/11/10/audio_547ebbf828.mp3?filename=cancion-triste-1502.mp3",
             "title": "Canción Triste",
-            "artwork": "http://example.com/cover.png",
+            "artwork": "https://www.w3schools.com/w3css/img_lights.jpg",
             "duration": 102
         },
         {
             "url": "https://cdn.pixabay.com/download/audio/2021/02/08/audio_7ac09a1714.mp3?filename=background-loop-melodic-techno-03-2691.mp3",
             "title": "Melodic Techno",
-            "artwork": "http://example.com/cover.png",
+            "artwork": "https://www.w3schools.com/w3css/img_lights.jpg",
             "duration": 202
         },
         {
             "url": "https://cdn.pixabay.com/download/audio/2021/06/10/audio_2db476ae90.mp3?filename=deep-music-every-day-kingdom-5015.mp3",
             "title": "Kingdom",
-            "artwork": "http://example.com/cover.png",
+            "artwork": "https://www.w3schools.com/w3css/img_lights.jpg",
             "duration": 120
         }
     ]
