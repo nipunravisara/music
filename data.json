@@ -1,34 +1,34 @@
 {
     "relaxation": [
         {
-            "url": "https://cdn.pixabay.com/download/audio/2021/07/22/audio_9584aae297.mp3?filename=freedom-inspired-cinematic-background-music-for-video-5606.mp3",
-            "title": "Freedom",
-            "artwork": "https://www.w3schools.com/w3css/img_lights.jpg",
-            "duration": 402
-        },
-        {
-            "url": "https://cdn.pixabay.com/download/audio/2020/10/11/audio_746c5a0fb3.mp3?filename=awakening-instrumental-1165.mp3",
-            "title": "Awakening",
-            "artwork": "https://www.w3schools.com/w3css/img_lights.jpg",
-            "duration": 302
-        },
-        {
             "url": "https://cdn.pixabay.com/download/audio/2020/11/10/audio_547ebbf828.mp3?filename=cancion-triste-1502.mp3",
             "title": "Canción Triste",
-            "artwork": "https://www.w3schools.com/w3css/img_lights.jpg",
-            "duration": 102
+            "artwork": "https://randompicturegenerator.com/img/national-park-generator/g7cafc5a41bf022e989475678fd2e5258aecbea766059619856d014f2d497d4005343e1342f2dd8d138cfc23ec2a48296_640.jpg",
+            "duration": 450.6
         },
         {
-            "url": "https://cdn.pixabay.com/download/audio/2021/02/08/audio_7ac09a1714.mp3?filename=background-loop-melodic-techno-03-2691.mp3",
-            "title": "Melodic Techno",
-            "artwork": "https://www.w3schools.com/w3css/img_lights.jpg",
-            "duration": 202
+            "url": "https://cdn.pixabay.com/download/audio/2020/10/11/audio_fe4d3bcac9.mp3?filename=cali-1171.mp3",
+            "title": "Cali",
+            "artwork": "https://randompicturegenerator.com/img/national-park-generator/g82ae074359ffdb354e4ff3f39f5b77c36008ecf899945a58b26e31107cd74b7b8171aef30db287f2887a7cff90214172_640.jpg",
+            "duration": 180
+        },
+        {
+            "url": "https://cdn.pixabay.com/download/audio/2020/08/30/audio_926fbf0b66.mp3?filename=modular-ambient-04-792.mp3",
+            "title": "Modular Ambient",
+            "artwork": "https://randompicturegenerator.com/img/national-park-generator/g351fda282375599c6fc8efc3e5e65666c8a686ad03ec367526e1d0c49a98d7dd0f756f675d7ef30950dc08300258afaf_640.jpg",
+            "duration": 324
+        },
+        {
+            "url": "https://cdn.pixabay.com/download/audio/2021/07/22/audio_7109a63dab.mp3?filename=upbeat-acoustic-ambient-guitar-background-music-for-videos-5601.mp3",
+            "title": "Upbeat Acoustic Ambient Guitar",
+            "artwork": "https://randompicturegenerator.com/img/national-park-generator/ge88b42ceccc0cdada9a466eacf8019a7e153b7f728003ff8601627293c0aacd7135f969723a2f3d5fd3939c296dee4e5_640.jpg",
+            "duration": 33.6
         },
         {
             "url": "https://cdn.pixabay.com/download/audio/2021/06/10/audio_2db476ae90.mp3?filename=deep-music-every-day-kingdom-5015.mp3",
             "title": "Kingdom",
-            "artwork": "https://www.w3schools.com/w3css/img_lights.jpg",
-            "duration": 120
+            "artwork": "https://randompicturegenerator.com/img/national-park-generator/g976e629ff6d1e24e32501ab1c113df740acbdd0681ccc3162b75dbeb59ff1de1333d12c5f7bec76f966782f629761ac1_640.jpg",
+            "duration": 130.8
         }
     ]
 }
